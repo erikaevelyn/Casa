@@ -4,7 +4,7 @@ namespace Casa{
 
     public class SmallApartment : Casa{
 
-        public SmallApartment(double area = 50): base(area){
+        public SmallApartment(): base(50){
         }
 
     }
